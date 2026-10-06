@@ -640,7 +640,5 @@ with Azure Data Factory acting as the primary orchestration layer, ADLS Gen2 pro
 ---
 
 ## Author
-
 **Rounak Yadav**
-
 ```
